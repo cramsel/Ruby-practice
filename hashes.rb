@@ -14,4 +14,4 @@ end
 
 store_person
 
-puts "make git happy"
+puts "Git is not happy"
